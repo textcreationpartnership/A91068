@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proper persecution, or the sandy foundation of a general toleration, discovered and portrayed in its proper colors. By the fruit ye shall know the tree; and by the waters the fountain. Read and consider what the envious man hath done.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91068</idno>
+            <idno type="STC">Wing P3673</idno>
+            <idno type="STC">Thomason 669.f.10[104]</idno>
+            <idno type="STC">ESTC R210661</idno>
+            <idno type="EEBO-CITATION">99869438</idno>
+            <idno type="PROQUEST">99869438</idno>
+            <idno type="VID">162636</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162636)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[104])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proper persecution, or the sandy foundation of a general toleration, discovered and portrayed in its proper colors. By the fruit ye shall know the tree; and by the waters the fountain. Read and consider what the envious man hath done.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Potts, and are to be sold at his shop, in the Old Bayly, neer the Sessions house,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 22 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162636:1" rendition="simple:additions"/>
+            <head>Proper Perſecution, or the ſandy Foundation of a general Toleration, Diſcovered and Portrayed in its proper Colors.</head>
+            <head>By the fruit ye ſhal know the tree; And by the waters the fountain. Read and Conſider what the Envious man hath done.</head>
+            <figure>
+               <head>A Reply to DICTATED thought <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> By a more Proper Emblem</head>
+               <l>Dictater heere behould in proper place</l>
+               <l>Three joynd as one to blemiſh and diſgrace</l>
+               <l>Heere wants noe chayne to linke each to other</l>
+               <l>You ſee how loueingly they gree together</l>
+               <l>Sweet peace and Truth how gladly would they meet</l>
+               <l>Yet for theſe enimies they Cannot greet</l>
+            </figure>
+            <p>
+               <hi>J ſhall begin with Martins curſed ſhrill Eccho.</hi> pag. 5, 6.</p>
+            <p n="1">1 THe life of Sir <hi>John Presbyter</hi> is like nei<g ref="char:EOLhyphen"/>ther to be long nor good.</p>
+            <p n="2">2. That he will be brought to a ſudden untimely end, perhaps to hanging.</p>
+            <p n="3">3. That Presbytery ſhall live but a ſhort time to do miſchief, and then the common people will ſing, <hi>Hey toſſe the Devils dead.</hi>
+            </p>
+            <p n="4">4. The Synod will ſoon be diſſolved, the devill chain'd up.</p>
+            <p n="5">5. Clap thy hands for joy, O <hi>England,</hi> Preſ<g ref="char:EOLhyphen"/>bytery ſhal have never a child to vex thee ſhortly, or impriſon thy free Deniſons, and to ſuck up thy fat.</p>
+            <p n="6">6. Then farewel perſecution for <hi>conſcience,</hi> then farewel <hi>Ordinance for tithes;</hi> farewel <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>cal ſupremacy:</hi> farewel <hi>Pontifical revenue.</hi>
+            </p>
+            <p n="7">7. Farewel <hi>Aſſembly of Divines,</hi> Diſſembled at <hi>Westminſter,</hi> Sir <hi>Simon Synod,</hi> and his ſon <hi>Presby<g ref="char:EOLhyphen"/>ter Jack.</hi>
+            </p>
+            <p>
+               <hi>In Perſecution Araignment,</hi> Pag. 2.</p>
+            <p n="8">8. Perſecution hath a thouſand <hi>Iack</hi> tricks a<g ref="char:EOLhyphen"/>bove all the reſt to block up all paſſages and ſtop all mouths.</p>
+            <p n="9">9. He turned Reverend Imprimatur and here all was as ſure as the Devil and Presbyter could make it.</p>
+            <p n="10">10. <hi>Pag.</hi> 14. We imploy Dr. <hi>Featlyes</hi> Devil a very reverend ten pound Sir <hi>John,</hi> to make up a deſcription of the <hi>Anabaptists,</hi> &amp;c.</p>
+            <p>
+               <hi>Against Tithes in a ſcurrilous Libel:</hi>
+            </p>
+            <p n="11">11. Time hath been wholy taken up in the Pro<g ref="char:EOLhyphen"/>curement of that ſacred Ordinance of Tithes, wiſely thought on before the <hi>Directory;</hi> for <hi>he is an Infidel and denyeth the faith that doth not provide for his Family.</hi>
+            </p>
+            <p n="12">12. My Lord the Defendant ſmels of a fat be<g ref="char:EOLhyphen"/>nefice; ſee his pockets are ful of <hi>Presbyterian</hi> ſteeples, the ſpires ſtick under his girdle; <hi>ha, ha, ha,</hi> inſtead of weathercocks, every ſpire hath got a black box on it.</p>
+            <p n="13">13. Inſtead of <hi>Moſes, Aaron,</hi> and the two tables, we ſhal have Sir <hi>Ssmon</hi> and Sir <hi>John</hi> holding the late ſolemn League and Covenant.</p>
+            <p n="14">14. And then that demure, ſpotleſs, pretty, lovely, ſacred, divine, and holy <hi>Ordinance</hi> for Tithes. The two <hi>tables</hi> of our Presbyterian Go<g ref="char:EOLhyphen"/>ſpel painted upon all the Churches in <hi>England.</hi>
+            </p>
+            <p n="15">15. O brave Sir <hi>Simon</hi> the Bels in your pocket chime all in, ours chime all out.</p>
+            <p n="16">16. I pray you give a funeral homily for your friends here before you depart, heres twenty ſhil<g ref="char:EOLhyphen"/>lings for your pains.</p>
+            <p n="17">17. Yea tis ſacriledge to bring down the priſe <hi>as it was in the beginning is now, and ever ſhal bee, world without end,</hi> Amen.</p>
+            <p n="18">18. Our Temporizing Doctors are not ſo ſimple to ſwim againſt the ſtream, they are wiſer in their generation and know moſt ſtate goes that way.</p>
+            <p n="19">19. Their Religion moves upon the wheel of the State.</p>
+            <p n="20">20. I would your Lordſhips would cal in your Ordinance for tithes, &amp; turn them to the peoples goodwils; Then a tithe pig would be ſold for a penny.</p>
+            <p>
+               <hi>In the Sacred Decretal,</hi> or <hi>Hue and C<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi>
+            </p>
+            <p n="21">21. From his ſuperlative holineſs Sir <hi>Simon Synod, &amp;c.</hi> In the front whereof is the picture of a Bul toſſing Sir <hi>Simon Synod</hi> on his horns, Tram<g ref="char:EOLhyphen"/>pling the Ordinance for tithes under his feet, with this Inſcription upon it. <hi>Ordinance for Tithes.</hi>
+            </p>
+            <p n="22">22. That the Ordinance permitting none to preach, but ſuch as are or<g ref="char:EOLhyphen"/>dained is a pattern of the ſpirit worſe then the Monopoly of Sope, hereby to get all trading into their own hands.</p>
+            <p n="23">23, Sir <hi>Iohn Gurns</hi> being lately rob'd with a Parliament Corall, that late Ordinance is made to put his boariſh Tusks, his great huge iron fangs in execution, to divorce, rend and teare theſe Hereticks.</p>
+            <p n="24">24. Therefore we wiſely conſulted of a Committee of examination to be choſen out of us, it muſt not be eſteemed a Court of Iuquiſion thats po<g ref="char:EOLhyphen"/>pery, not a Renovation of the High Commiſſion, thats Antichriſtian, only an Inlet to a through Reformation, thats a godly name that may doe much good, &amp;c.</p>
+            <p n="25">25. The Claſsicall Clarks and Sextons of the three Kingdoms demoliſh and put down all the Martins neſts from your Church-wals and Steeples, that no birds build, chatter, or doe their buſines there.</p>
+            <p n="26">26. But Church owles, Jack-dawes, otherwayes called Sir <hi>Iohn</hi> blind <hi>Batts</hi> Presbyterian Wood cocks.</p>
+            <p n="27">27. O yee two Houſes of Parliament make another Ordinance, that all the meetings may be made to fly the three Kingdoms the next Mid-ſummer with Cuckowes and Swallows.</p>
+            <p n="28">28. Thar ſo we may have a blew Cap Reformation, amongſt Bats, Owles, Jack-dawes and Wood cocks and the blew Cap for us.</p>
+            <p>
+               <hi>Araignment of Perſecution, pag.</hi> 33. 34.</p>
+            <p n="29">29. Perſecution is thy name, Perfect Reformation.</p>
+            <p>
+               <hi>Perſecu.</hi> Yes my Lord, <hi>Iudge.</hi> Who gave you that name? <hi>I. Reaſen,</hi> his God fathers and God-mothers in his Baptiſm wherein he was made a mem<g ref="char:EOLhyphen"/>ber of the Aſſembly, and an Inheritor of the Kingdom of Antichriſt.</p>
+            <p n="30">30. <hi>Iudg.</hi> Who are your God-fathers, and God-mothers?</p>
+            <p>
+               <hi>Perſecu.</hi> My Lord, Maſter Eccleſiaſticall Supremacy, and Maſter Scotch government my God-fathers, Miſtris State ambition, and Church Revenue are my God-mothers.</p>
+            <p n="31">31. And I was ſprinkled into the Aſſembly of Divines, at the taking of the late ſolemn League and Covenant.</p>
+            <p n="32">32. <hi>Iudg.</hi> Tis ſtrange, that at the making of the late ſolemne league and Covenant, blood Thirſty Perſecution ſhould be Anabaptiſt preſent before Reformation.</p>
+            <p n="33">33. Then here's a deſigne of blood in the Covenant, if under the name of Reformation the Clergy have infuſed the ſpirit of Perſecution into it.</p>
+            <p n="34">34. My Lord there was never any National or Provincial Synod, but ſtrengthned the hand of Perſecution under the vizard of Religion.</p>
+            <p n="35">35. <hi>I. Reaſon,</hi> as ſoon as theſe underling Di<g ref="char:EOLhyphen"/>vines are from under their Epiſcopall Task-ma<g ref="char:EOLhyphen"/>ſters, and begin to incroach your Lordſhips pow<g ref="char:EOLhyphen"/>er, they preſently take this notorious bloody Traytor <hi>Perſecution,</hi> ſtript by your Lordſhips of his High Commiſſion habit, and out of their zeal dreſſe him in a divine Synodical garb, and change his name from <hi>Perſecution</hi> to <hi>Reformation.</hi>
+            </p>
+            <p>
+               <hi>Pag.</hi> 39. By the late ſolemn League and Cove<g ref="char:EOLhyphen"/>nant, Good Lord deliver us.</p>
+            <p>
+               <hi>Araignment of Perſecution in the Epiſtle.</hi>
+            </p>
+            <p n="36">36. A Reverend Aſſembly ſuch a quagmire of croaking skipjack Presbyters <hi>&amp;c.</hi>
+            </p>
+            <p n="37">37. New upſtart trifling Presbyters, Synodi<g ref="char:EOLhyphen"/>an Cormorants; the Synodian whore of <hi>Babylon;</hi> The trayterous Synod called the Aſſembly of <hi>Divines.</hi>
+            </p>
+            <p n="38">38. Presbyterian Horſe leeches, blood-thirſty cattel.</p>
+            <p n="39">39. The great gore-bellyed Idol, called the Aſſembly of Divines.</p>
+            <p n="40">40. Jeſuitical Traytors, deſigns of the Synod.</p>
+            <p n="41">41. Our diſſembly Doctors a Conſiſtory of Devils.</p>
+            <p n="42">42. <hi>Pag.</hi> 1. The Synod is guided by the holy Ghoſt, ſent in Cloakbag from <hi>Scotland.</hi>
+            </p>
+            <p n="43">43. Becauſe the Aſſembly have ſadled the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> it is unlawful for the Presbyterians to go on foot.</p>
+            <p n="44">44. <hi>Pag.</hi> 35. 36. It is moſt certain that this fellow, whoſe name Sir <hi>Simon</hi> fains to be <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> is abſolute <hi>Perſecution;</hi> ſo that had theſe Reformers as much power as Queen <hi>Maries</hi> Cler<g ref="char:EOLhyphen"/>gy, their Reformation would conclude in fire and faggot.</p>
+            <p n="45">45. Judge, oh inſufferable Aſſembly, I ſee tis dangerous for a State to pin their faith upon the ſleeve of the Clergy.</p>
+            <p n="46">46. Others are impoveriſht and loſe their lives in the Quarrel, but theſe are inricht and ad<g ref="char:EOLhyphen"/>vanced by it, ſave their purſes and perſons, cram their filthy greedy guts too il to carry to a bear.</p>
+            <p n="47">47. Yea my Lord this great gore belly Idoll called the Aſſembly of Divines is not aſhamed in this time of neceſsity to devour more at one Meal then <hi>Bel</hi> and the <hi>Dragon.</hi>
+            </p>
+            <p n="48">48. Beſides all their fat Benefices forſooth they muſt have four ſhillings a peece by the day, &amp;c.</p>
+            <p n="49">49. They move your Lordſhip that all the <hi>Clergy</hi> may be freed from taxations that now the trade of <hi>Presbytery</hi> is the beſt.</p>
+            <p n="50">50. All are taxt and it goes free, thus theſe Church-lubbers live at eaſe.</p>
+            <p n="51">51. Let all that ſuffer opppreſſion conſider this and no longer be Riden and Jaded by Clergy<g ref="char:EOLhyphen"/>maſters.</p>
+            <p n="52">52. But to give the Devil his due, they are zea<g ref="char:EOLhyphen"/>louſly affected to the honor of the cloth, that it is pity to diſrobe them of the caſſock garb to be led in ſtrings from <hi>Westminſter</hi> to <hi>Algate</hi> in leathern Jackets and mattock on their ſhouldiers.</p>
+            <p n="53">53. <hi>Pag.</hi> 36, 37. Primacy, Metra politaniſm, Prelacy &amp;c. are ſhrunk into the <hi>Presbytery,</hi> and the High Commiſsion court turned into an <hi>Aſ<g ref="char:EOLhyphen"/>ſembly of Divines.</hi>
+            </p>
+            <p>With numerous ſuch like curſed expreſsions the like whereof I perſwade my ſelf all our Ieſui<g ref="char:EOLhyphen"/>ticall State-deſtroying Romiſh enemies are no way able to paralel, thus in plain Engliſh we ſee a goodly Foundation layd for a Toleration, pre<g ref="char:EOLhyphen"/>tended for tender conſciences but contradicted by helliſh, heatheniſh and curſed carnal practiſes.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Joſeph Potts,</hi> and are to be ſold at his ſhop, in the <hi>Old Bayly,</hi> neer the Seſsions houſe 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
